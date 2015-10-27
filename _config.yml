@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://traeblain.github.io
+title: Trae Blain (Test)
+email: trae@traeblain.com
+author: Trae
+description: My awesome new site
+paginate: 35
+google_analytics: 
